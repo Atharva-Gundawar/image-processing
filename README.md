@@ -1,2 +1,2 @@
-# Image Processing projects
+# Image Processing Projects
 
